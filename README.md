@@ -37,5 +37,3 @@ Once both backend and frontend are running successfully, you can register and pe
 
 ---
 For any issues, refer to documentation or seek help online.
-![image](https://github.com/user-attachments/assets/2a9138bf-de90-46cc-8973-f655ebba3d22)
-
